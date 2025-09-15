@@ -23,3 +23,9 @@ Convert frame from BGR to HSV.
 Apply color range masks for RED and YELLOW.
 
 Display detected color text overlay.
+
+Output:
+Uji-1.png
+Uji-red.png
+Uji-yellow.png
+0
